@@ -3,7 +3,7 @@
 A dynamic quiz platform built with **React + Vite + TypeScript** that allows users to attempt quizzes, receive instant feedback, and track their progress.
 
 ## 🚀 Live Demo
-🔗 [Deployed App](#) *(Replace with your actual link)*
+🔗 https://decoid-ass.vercel.app/
 
 ## 📂 Features
 
