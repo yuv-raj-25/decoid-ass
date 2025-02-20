@@ -30,17 +30,11 @@ A dynamic quiz platform built with **React + Vite + TypeScript** that allows use
 - **State Management**: React Context / useReducer (if applicable)  
 - **Styling**: Tailwind CSS / CSS Modules  
 - **Data Persistence**: IndexedDB  
-- **Deployment**: Vercel / Netlify  
+- **Deployment**: Vercel  
 
 ---
 
 ## 🏗️ Installation & Setup
-
-### 1️⃣ Clone the Repository
-```sh
-git clone https://github.com/your-username/interactive-quiz-platform.git  
-cd interactive-quiz-platform
-```
 
 ### 2️⃣ Install Dependencies
 ```sh
